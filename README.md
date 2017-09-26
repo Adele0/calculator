@@ -1,2 +1,2 @@
 # calculator
-计算器
+计算器small white
